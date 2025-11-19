@@ -100,15 +100,8 @@ Você pode executar o `.exe` para jogar diretamente.
 
 ## 📸 **Screenshots 
 
-```
-![1](https://github.com/user-attachments/assets/df4ca589-29d1-49fe-b2f7-b04fa5c6f5b4)
 
-![2](https://github.com/user-attachments/assets/90c29bd6-e3b6-407a-bef8-083c7982296b)
-
-![3](https://github.com/user-attachments/assets/e4f1d88e-2a12-42ba-8225-dc2024aa64db)
-
-![4](https://github.com/user-attachments/assets/08800c73-1bcc-4b4d-a5da-3b2cc9e78b57)
-
-
-```
-
+![1](https://github.com/user-attachments/assets/5a36a0fc-ad76-49b7-84f3-b6da96d0702a)
+![2](https://github.com/user-attachments/assets/384c8ecc-9353-4214-af82-51f8eae135ac)
+![3](https://github.com/user-attachments/assets/83cbcbea-6add-4d57-9482-8424446b3293)
+![4](https://github.com/user-attachments/assets/2fa2cb76-334b-427a-a79c-688a9a770914)
